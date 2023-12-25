@@ -17,3 +17,6 @@ When a user sends a message, WhatsApp forwards it to the Lambda function, which 
 For reminders, Amazon EventBridge sends a request to the lambda function every 5 minutes to check for reminders. All events found within a 5 minute window are sent in order.
 
 `reminders` is a custom package with util functions for dynamodb, openai, whatsapp and time conversions.
+
+# How to contribute?
+However you want. Deployments are ad-hoc, DMs are open on [https://x.com/timothydelille](https://x.com/timothydelille).
