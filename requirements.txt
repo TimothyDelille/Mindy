@@ -1,0 +1,6 @@
+requests
+openai==0.27.0
+boto3
+pendulum
+phonenumbers
+pydub
